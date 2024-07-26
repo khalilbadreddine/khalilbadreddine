@@ -21,6 +21,15 @@ I am an innovative and results-driven MERN Stack Developer with a Bachelor's deg
 
 ---
 
+### 📊 GitHub Stats:
+![Compose User Dashboard Stats](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671)
+![Compose Org Pull Requests Open to Review](https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=11855343&period=past_28_days)
+![Analyze Repo Pull Requests Size Per Month](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=41986369)
+![Analyze Repo Pushes and Commits Per Month](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369)
+![Compose Currently Working On](https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=12960671&activity_type=all)
+
+---
+
 ### :hammer_and_wrench: Skills :
 #### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
