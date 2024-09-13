@@ -64,22 +64,20 @@
 
 
 #### Databases:
-<img src="https://skillicons.dev/icons?i=mongodb,oracle,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
 #### Version Control:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://skillicons.dev/icons?i=git,github" />
+
 
 #### System Administration:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
 
 #### Software Design:
-![UML](https://img.shields.io/badge/-UML-546E7A?style=flat-square&logo=uml)
+<img src="https://skillicons.dev/icons?i=uml" />
+
 
 #### Soft Skills:
 - Problem-solving
