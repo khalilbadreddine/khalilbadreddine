@@ -60,7 +60,7 @@
 
 
 #### Web Technologies:
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,jquery,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,jquery,sass,tailwind,bootstrap,gulp,typescript" />
 
 
 #### Databases:
@@ -75,8 +75,11 @@
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
 
-#### Software Design:
-<img src="https://skillicons.dev/icons?i=uml" />
+#### Software:
+<img src="https://skillicons.dev/icons?i=vscode,atom,wordpress,webstorm,webflow" />
+
+#### Design Software:
+<img src="https://skillicons.dev/icons?i=xd,psd,pr" />
 
 
 #### Soft Skills:
