@@ -31,13 +31,16 @@ I am an innovative and results-driven MERN Stack Developer with a Bachelor's deg
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Copy-paste in your Readme.md file -->
 
-![Compose User Dashboard Stats](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671)
-![Compose Org Pull Requests Open to Review](https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=11855343&period=past_28_days)
-![Analyze Repo Pull Requests Size Per Month](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=41986369)
-![Analyze Repo Pushes and Commits Per Month](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369)
-![Compose Currently Working On](https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=12960671&activity_type=all)
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=834136167" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=834136167&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of khalilbadreddine/khalilbadreddine - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=834136167&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
 
