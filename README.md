@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Badr_Eddine!;" />
 </h1>
-I'm **Badr Eddine Khalil**, a MERN Stack Developer from Tamesna.
+<h3 align="center">I'm **Badr Eddine Khalil**, a MERN Stack Developer from Tamesna.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalilbadredd&style=flat-square&color=blue)
 
@@ -22,6 +22,14 @@ I'm **Badr Eddine Khalil**, a MERN Stack Developer from Tamesna.
 I am an innovative and results-driven MERN Stack Developer with a Bachelor's degree in Computer Systems Engineering. I excel in problem-solving, creativity, and team collaboration, and I thrive in dynamic environments where I can quickly adapt to new technologies.
 
 ---
+
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 ### 📊 GitHub Stats:
 <!-- Copy-paste in your Readme.md file -->
