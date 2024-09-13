@@ -19,8 +19,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am an innovative and results-driven MERN Stack Developer with a Bachelor's degree in Computer Systems Engineering. I excel in problem-solving, creativity, and team collaboration, and I thrive in dynamic environments where I can quickly adapt to new technologies.
-
+<div align="center"> <p>I am an innovative and results-driven MERN Stack Developer 💻🚀 with a Bachelor's degree in Computer Systems Engineering 🎓🖥️. I excel in problem-solving 🧩, creativity 🎨, and team collaboration 🤝, and I thrive in dynamic environments where I can quickly adapt to new technologies ⚡📱.
+</p></div>
 ---
 
  
@@ -56,9 +56,8 @@ I am an innovative and results-driven MERN Stack Developer with a Bachelor's deg
 
 ### :hammer_and_wrench: Skills :
 #### Programming Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+ <img src="https://skillicons.dev/icons?i=javascript,java,python" />
+
 
 #### Web Technologies:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
