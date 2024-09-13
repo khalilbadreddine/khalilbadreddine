@@ -1,4 +1,6 @@
-# Hey there! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 I'm **Badr Eddine Khalil**, a MERN Stack Developer from Tamesna.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalilbadredd&style=flat-square&color=blue)
