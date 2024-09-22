@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Highlight Project:
-### [Health Prediction System](#projects)
+### [Iphone 15 Clone](#projects)
 
 ## 👨‍💻 Currently:
 - Working at **CrystalIt / Amnesty (Intern)**
