@@ -57,17 +57,7 @@
 </div>
 
 ### 📊 GitHub Stats:
-<!-- Copy-paste in your Readme.md file -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=46822901&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=46822901&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @khalilbadreddine" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=46822901&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!-- Copy-paste in your Readme.md file -->
