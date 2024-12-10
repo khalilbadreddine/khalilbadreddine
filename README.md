@@ -1,128 +1,72 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Badr_Eddine!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Badr+Eddine!;" />
 </h1>
-<h3 align="center">I'm **Badr Eddine Khalil**, a MERN Stack Developer from Morocco</h3>
+<h3 align="center">MERN Stack Developer from Morocco</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khalilbadredd&style=flat-square&color=blue)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=khalilbadredd&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 Highlight Project:
-### [Iphone 15 Clone](#projects)
+## 🚀 Highlight Projects
+- [Iphone 15 Clone](#projects)
+- [Elegant E-Commerce Platform](https://github.com/yourrepo/elegant-client)
+- [Award-Winning Gaming Website](https://github.com/yourrepo/gaming-website)
 
-## 👨‍💻 Currently:
-- Working at **CrystalIt / Amnesty (Intern)**
-
-## 🌟 Achievements:
-- 🥈 Secured 2nd place in a health prediction system project at a hackathon
+## 👨‍💻 Currently
+- Intern at **CrystalIt / Amnesty**
 
 ---
 
 ### :man_technologist: About Me :
-<div align="center"> <p>I am an innovative and results-driven MERN Stack Developer 💻🚀 with a Bachelor's degree in Computer Systems Engineering 🎓🖥️. I excel in problem-solving 🧩, creativity 🎨, and team collaboration 🤝, and I thrive in dynamic environments where I can quickly adapt to new technologies ⚡📱.
-</p></div>
----
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    
-### :hammer_and_wrench: Skills :
-#### Programming Languages:
- <img src="https://skillicons.dev/icons?i=javascript,java,python" />
-
-
-#### Web Technologies:
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,jquery,sass,tailwind,bootstrap,gulp,typescript" />
-
-
-#### Databases:
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-
-#### Version Control:
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-
-#### System Administration:
-<img src="https://skillicons.dev/icons?i=windows,linux" />
-
-
-#### Software:
-<img src="https://skillicons.dev/icons?i=vscode,atom,wordpress,webstorm,webflow" />
-
-#### Design Software:
-<img src="https://skillicons.dev/icons?i=xd,figma,pr" />
-</div>
-
-### 📊 GitHub Stats:
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<p align="center">
+    I am an innovative and results-driven MERN Stack Developer 💻🚀 with a Bachelor's degree in Computer Systems Engineering 🎓. I excel in problem-solving 🧩, creativity 🎨, and team collaboration 🤝, thriving in dynamic environments where I can adapt to new technologies ⚡📱.
+</p>
 
 ---
 
-
-
-#### Soft Skills:
-- Problem-solving
-- Creativity
-- Adaptability
-- Team Collaboration
+<h2 align="center">⚒️ Skills & Tools</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,react,nodejs,expressjs,mongodb,mysql,git,github,html,css,tailwind,sass,vscode,figma,pr" />
+</p>
 
 ---
 
-### 🏆 Experience:
-#### Front-End Developer Intern
-**CrystalIt / Amnesty** | April 2021 - June 2021
-- Engineered dynamic websites using HTML, CSS, JavaScript, and MERN stack.
-- Improved performance and user experience of web applications.
-- Implemented responsive design principles for seamless functionality across devices.
+## 🌟 Achievements
+- 🥈 2nd place for a health prediction system project at a hackathon
+- Built a responsive e-commerce platform with dynamic features and animations
+- Designed award-winning gaming websites with modern aesthetics and high performance
 
 ---
 
-### 🎓 Education:
-#### Bachelor's Degree in Computer Systems Engineering
-**SUPMTI** | 2022 - 2023
-
-#### Advanced Technician Diploma in Computer Development
-**ISTA NTIC** | 2019 - 2021
-
-#### Sciences Program
-**Faculty of Sciences, Rabat** | 2018 - 2019
-
-#### Baccalaureate in Physical Sciences
-**Abdelah Genoun High School, Rabat** | 2017 - 2018
+### 🛠 Projects
+1. **Health Prediction System** 🥈
+   - A predictive healthcare project presented at a hackathon
+2. **Elegant E-Commerce Platform**
+   - A modern platform with dynamic cart, wishlist, and product management
+3. **Award-Winning Gaming Website**
+   - Features animated nav bars, interactive grids, and responsive design
 
 ---
 
-### 🛠 Projects:
-1. **Health Prediction System** - 🥈 Secured 2nd place in a hackathon.
-2. **ATM Interface Application** - Java JDBC and Oracle SQL.
-3. **Employee Management System** - Servlets and JSP.
-4. **Student Management System** - Java JDBC and Oracle DBMS.
+## 🎓 Education
+- **Bachelor's Degree in Computer Systems Engineering**  
+  SUPMTI | 2022 - 2023
+- **Advanced Technician Diploma in Computer Development**  
+  ISTA NTIC | 2019 - 2021
 
 ---
 
-### 🌐 Languages:
-- **Arabic:** Native proficiency
-- **English:** Professional working proficiency
-- **French:** Professional working proficiency
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilbadredd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbadredd&layout=compact&theme=radical)
 
 ---
 
-### 📫 Contact:
-- 📧 [khalilbadre5@gmail.com](mailto:khalilbadre5@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/khalilbadredd)
-
-<div align="center">
-  <a href="https://linkedin.com/khalilbadredd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;|&nbsp;
-  <a href="mailto:khalilbadre5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-</div>
+## 🌐 Connect With Me
+<p align="center">
+    <a href="https://linkedin.com/khalilbadredd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;|&nbsp;
+    <a href="mailto:khalilbadre5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+</p>
