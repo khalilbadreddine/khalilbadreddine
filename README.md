@@ -7,14 +7,34 @@
 ![GitHub followers](https://img.shields.io/github/followers/khalilbadredd?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=khalilbadredd.khalilbadredd)
 
-### 📫 Want to connect?
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khalil+Badr_Eddine!;" />
+</div>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <h2>
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+      مرحباً (Marhaban)🙏🏻
+    </h2>
+    <p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a></em></p>
+    
+    <div>
+      <a href="mailto:khalilbadre5@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-ME-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+  
+  <div align="right">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  </div>
+</div>
 
-<a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>About Me 🧑‍💻</h3>
+    
 ```javascript
 const khalil = {
     pronouns: "He" | "Him",
@@ -39,6 +59,99 @@ const khalil = {
     achievements: "🥈 2nd place in Orange Mega Hackathon for Health Prediction System"
 };
 ```
+
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Featured Projects 🚀</h3>
+    
+1. **Elegant E-Commerce Platform**
+   - Full-stack MERN application with Redux
+   - Modern UI with Tailwind CSS & Material-UI
+   - Advanced features: real-time cart, wishlist, authentication
+
+2. **Award-Winning Gaming Website**
+   - React & Tailwind CSS implementation
+   - Advanced animations with GSAP
+   - Responsive bento grid design with custom hover effects
+
+3. **iPhone 15 Clone**
+   - Interactive 3D models and animations
+   - Built with React Three Fiber & GSAP
+   - Smooth scrolling experiences
+
+4. **Health Prediction System**
+   - Led team of 4 developers
+   - Integrated ML models for health analysis
+   - Improved diagnostic accuracy by 30%
+
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Technical Expertise 💻</h3>
+    
+```javascript
+const frontend = {
+    frameworks: ["React", "Redux", "Next.js"],
+    styling: ["Tailwind CSS", "Material-UI", "SASS"],
+    animation: ["GSAP", "Framer Motion"],
+    build_tools: ["Vite", "Webpack"]
+}
+
+const backend = {
+    runtime: ["Node.js"],
+    frameworks: ["Express.js", "Django"],
+    databases: ["MongoDB", "MySQL", "Oracle"],
+    api: ["REST", "GraphQL"],
+    auth: ["JWT", "OAuth"]
+}
+```
+
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Weekly Stats 📊</h3>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khalilbadredd&layout=compact&theme=dark"/>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h3>Technologies & Tools 🛠️</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,typescript,python,django,mysql,figma,vscode" />
+  </p>
+</div>
+
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <a href="https://linkedin.com/khalilbadredd">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/khalilbadredd">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:khalilbadre5@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=khalilbadredd&theme=darkhub&no-frame=true&row=1&column=6"/>
+</div>
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilbadredd&show_icons=true&theme=dark" style="flex: 1;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilbadredd&theme=dark" style="flex: 1;"/>
+</div>
+
+### 📫 Want to connect?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### 🚀 Featured Projects
 
@@ -136,9 +249,9 @@ An intelligent health prediction system:
 
 ```text
 Frontend Development    █████████████░░░░   65%
-Backend Development    ████████░░░░░░░░░   40%
-UI/UX Design          ██████░░░░░░░░░░░   30%
-DevOps                ████░░░░░░░░░░░░░   20%
+Backend Development     ████████░░░░░░░░░   40%
+UI/UX Design            ██████░░░░░░░░░░░   30%
+DevOps                  ████░░░░░░░░░░░░░   20%
 ```
 
 ---
@@ -257,5 +370,3 @@ const backend = {
 <p align="center">
 <em>Open to exciting opportunities and collaborations!</em>
 </p>
-
-```
