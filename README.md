@@ -1,20 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Khalil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
-<div align="left">
-  <p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a></em></p>
-  ## 📫 Let's Connect!
-    <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
-    <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
-    <a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
-</div>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2020%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -29,6 +16,22 @@ const khalil = {
     contact: "+(212)-6-55-15-46-87 📱"
 };
 ```
+
+
+<div align="left">
+  <p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a></em></p>
+  ## 📫 Let's Connect!
+    <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
+    <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
+    <a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+</div>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 ## 🚀 Featured Projects
 
@@ -87,6 +90,7 @@ const frontend = {
     styling: ["Tailwind", "Material-UI", "SASS"],
     animation: ["GSAP", "Framer Motion"],
     buildTools: ["Vite", "Webpack"],
+    languages: ["JavaScript (ES6+)", "HTML5", "CSS3"]
 };
 ```
 </td> <td width="50%">
@@ -99,9 +103,22 @@ const backend = {
     databases: ["MongoDB", "MySQL", "Oracle"],
     api: ["REST", "GraphQL"],
     auth: ["JWT", "OAuth"],
+    tools: ["Git", "GitHub", "Webpack", "Vite", "Sentry"]
 };
 ```
 </td> </tr> </table>
+
+### Core Technologies
+- Authentication & Security: JWT, RBAC, User Authentication
+- API Development: RESTful APIs, Real-Time Applications
+- Testing & Quality: Cypress.io, ESLint
+- Project Management: Jira, Agile/Scrum
+
+### Specialized Skills
+- Responsive Web Design
+- Clean Code & Best Practices
+- Version Control & Collaboration
+- Full Stack Development (MERN)
 
 ## 📊 Weekly Development Breakdown
 
@@ -291,7 +308,7 @@ DevOps                ████░░░░░░░░░░░░░   20%
  > 
 > 🏆 199 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+>  Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
@@ -321,31 +338,31 @@ Sunday                   944 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Morocco / GMT+1
 
 💬 Programming Languages: 
-TypeScript               32 hrs 28 mins      ██████████████████████░░░   88.71 % 
-SCSS                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+React                  32 hrs 28 mins        ██████████████████████░░░   88.71 % 
+tailwind               1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 CSS                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-WebStorm                 36 hrs 35 mins      █████████████████████████   99.97 % 
+VsCode                 36 hrs 35 mins        █████████████████████████   99.97 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      36 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                      36 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+React                      32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+Javascript                 9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+NodeJS                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 
@@ -366,7 +383,8 @@ const frontend = {
     frameworks: ["React", "Redux", "Next.js"],
     styling: ["Tailwind CSS", "Material-UI", "SASS"],
     animation: ["GSAP", "Framer Motion"],
-    build_tools: ["Vite", "Webpack"]
+    build_tools: ["Vite", "Webpack"],
+    languages: ["JavaScript (ES6+)", "HTML5", "CSS3"]
 }
 ```
 
@@ -377,9 +395,22 @@ const backend = {
     frameworks: ["Express.js", "Django"],
     databases: ["MongoDB", "MySQL", "Oracle"],
     api: ["REST", "GraphQL"],
-    auth: ["JWT", "OAuth"]
+    auth: ["JWT", "OAuth"],
+    tools: ["Git", "GitHub", "Webpack", "Vite", "Sentry"]
 }
 ```
+
+### Core Technologies
+- Authentication & Security: JWT, RBAC, User Authentication
+- API Development: RESTful APIs, Real-Time Applications
+- Testing & Quality: Cypress.io, ESLint
+- Project Management: Jira, Agile/Scrum
+
+### Specialized Skills
+- Responsive Web Design
+- Clean Code & Best Practices
+- Version Control & Collaboration
+- Full Stack Development (MERN)
 
 ## 📫 Let's Connect!
 
