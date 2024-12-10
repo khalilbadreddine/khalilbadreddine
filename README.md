@@ -29,7 +29,84 @@ const khalil = {
 
 ## 🚀 Featured Projects
 
-<details> <summary>Elegant E-Commerce Platform</summary> - **Tech Stack:** MERN, Tailwind CSS, Material-UI - **Features:** Real-time cart, JWT authentication, secure payments, responsive design, GSAP animations. - **Highlights:** Redux state management, RESTful APIs, Socket.io for real-time updates. </details> <details> <summary>Gaming Website</summary> - **Tech Stack:** React, GSAP - **Features:** Animated nav bar, full-screen transitions, responsive bento grid. - **Highlights:** Performance-focused build, CSS hover effects, semantic HTML. </details> <details> <summary>iPhone 15 Clone</summary> - **Tech Stack:** React Three Fiber, GSAP - **Features:** Interactive 3D models, smooth animations, feature highlighting. </details> <details> <summary>Health Prediction System</summary> - **Tech Stack:** ML, React, Django - **Features:** ML diagnostics, chatbot, health analytics. - **Highlights:** Led a team of 4, improved diagnostic accuracy by 30%. </details>
+<table>
+<tr>
+<td width="50%">
+
+### Elegant E-Commerce Platform
+![Tech Stack](https://img.shields.io/badge/MERN-Stack-blue)
+![Status](https://img.shields.io/badge/Status-Live-success)
+- Full-stack MERN application with Redux
+- Modern UI with Tailwind CSS & Material-UI
+- Advanced features: real-time cart, wishlist, authentication
+- 🛒 Real-time shopping cart management
+- 🔐 JWT authentication & authorization
+- 💳 Secure payment integration
+- 📱 Responsive design with Tailwind CSS
+- 🎨 Material-UI components
+- 🌙 GSAP animations
+- Redux state management
+- MongoDB with Mongoose ODM
+- RESTful API architecture
+- Real-time updates with Socket.io
+- Advanced product filtering
+- Image optimization
+
+</td>
+<td width="50%">
+
+### Award-Winning Gaming Website
+![Tech Stack](https://img.shields.io/badge/React-Frontend-blue)
+![Animation](https://img.shields.io/badge/GSAP-Animations-green)
+- React & Tailwind CSS implementation
+- Advanced animations with GSAP
+- Responsive bento grid design with custom hover effects
+- 🎮 Animated floating nav bar
+- 🎥 Full-screen video transitions
+- 📱 Responsive bento grid design
+- ✨ Custom hover effects
+- 🎨 Minimalistic UI/UX
+- Custom animation system
+- Video optimization
+- Performance-focused build
+- CSS-only card tilt effects
+- Semantic HTML structure
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### iPhone 15 Clone
+![Tech Stack](https://img.shields.io/badge/React-ThreeFiber-purple)
+![3D](https://img.shields.io/badge/3D-Modeling-orange)
+- Interactive 3D models and animations
+- Built with React Three Fiber & GSAP
+- Smooth scrolling experiences
+- 📱 3D model interactions
+- 🎨 Smooth animations
+- 🖼️ Dynamic color changes
+- 📍 Feature highlighting
+- 🎥 Camera transitions
+
+</td>
+<td width="50%">
+
+### Health Prediction System
+![Tech Stack](https://img.shields.io/badge/ML-Integration-red)
+![Award](https://img.shields.io/badge/Hackathon-2nd_Place-silver)
+- Led team of 4 developers
+- Integrated ML models for health analysis
+- Improved diagnostic accuracy by 30%
+- 🤖 ML-powered diagnostics
+- 💬 Interactive chatbot
+- 📊 Health analytics
+- 📱 Responsive design
+- 🔒 Secure data handling
+
+</td>
+</tr>
+</table>
 
 ## 💻 Technical Expertise
 
