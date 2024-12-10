@@ -70,16 +70,10 @@ DevOps                ████░░░░░░░░░░░░░   20%
 ## 🛠️ Technologies & Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git" /><br> <img src="https://skillicons.dev/icons?i=typescript,python,django,mysql,figma,vscode" /> </div>
 
-## 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khalilbadredd&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilbadredd&theme=dark" alt="GitHub Streak" /> </div>
 
 ## 📫 Let's Connect!
 <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحباً (Marhaban)🙏🏻, I'm Khalil Badr Eddine! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 [![LinkedIn: khalilbadredd](https://img.shields.io/badge/-khalilbadredd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/khalilbadredd)](https://linkedin.com/khalilbadredd)
 ![GitHub followers](https://img.shields.io/github/followers/khalilbadredd?label=Follow&style=social)
