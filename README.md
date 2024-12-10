@@ -165,7 +165,7 @@ const khalil = {
     <th>Technical Highlights</th>
   </tr>
   <tr>
-    <td>Elegant E-Commerce Platform</td>
+    <td>Elegant E-Commerce Platform 🛍️</td>
     <td>A modern, responsive e-commerce platform with comprehensive features</td>
     <td>
       <ul>
@@ -189,7 +189,7 @@ const khalil = {
     </td>
   </tr>
   <tr>
-    <td>Award-Winning Gaming Website</td>
+    <td>Award-Winning Gaming Website 🏆</td>
     <td>A stunning recreation of an award-winning gaming platform</td>
     <td>
       <ul>
@@ -211,7 +211,7 @@ const khalil = {
     </td>
   </tr>
   <tr>
-    <td>iPhone 15 Clone</td>
+    <td>iPhone 15 Clone 📱</td>
     <td>An interactive 3D showcase of the iPhone 15</td>
     <td>
       <ul>
@@ -225,7 +225,7 @@ const khalil = {
     <td></td>
   </tr>
   <tr>
-    <td>Health Prediction System</td>
+    <td>Health Prediction System 🏥</td>
     <td>An intelligent health prediction system</td>
     <td>
       <ul>
@@ -236,7 +236,50 @@ const khalil = {
         <li>🔒 Secure data handling</li>
       </ul>
     </td>
+    <td>Technologies: React.js, Tailwind CSS, Django, NumPy, Pandas, Matplotlib</td>
+  </tr>
+  <tr>
+    <td>Wushu Referee Web App 🥋</td>
+    <td>Real-time match management system for the Moroccan Federation of Wushu Kung Fu</td>
+    <td>
+      <ul>
+        <li>Improved match tracking efficiency by 40%</li>
+        <li>Collaborated with the federation to meet tournament needs</li>
+      </ul>
+    </td>
+    <td>Technologies: HTML, CSS, JavaScript, Node.js, Express, Socket.IO</td>
+  </tr>
+  <tr>
+    <td>Apple iPhone Clone 🍏</td>
+    <td>Interactive iPhone page with 3D models and smooth animations</td>
     <td></td>
+    <td>Technologies: React.js, React Three Fiber, GSAP, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Multivendor E-commerce Web App 🛒</td>
+    <td>Multivendor platform with secure payment gateways and RBAC</td>
+    <td>
+      <ul>
+        <li>Boosted platform security by reducing unauthorized access by 50%</li>
+      </ul>
+    </td>
+    <td>Technologies: MERN stack, JWT, MongoDB</td>
+  </tr>
+  <tr>
+    <td>School Management Web App (Shilpa) 🎓</td>
+    <td>Intuitive interface for increased user engagement</td>
+    <td>
+      <ul>
+        <li>Implemented a dynamic real-time notification system</li>
+      </ul>
+    </td>
+    <td>Technologies: MERN stack (React.js, Node.js, MongoDB), HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td>Brainwave AI App Landing Page 🧠</td>
+    <td>Fully responsive landing page focused on user engagement</td>
+    <td></td>
+    <td>Technologies: React.js, Tailwind CSS, Vite</td>
   </tr>
 </table>
 
@@ -274,7 +317,7 @@ DevOps                ████░░░░░░░░░░░░░   20%
 ```text
 🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░   29.40 % 
 🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
