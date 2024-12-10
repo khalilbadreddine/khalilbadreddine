@@ -1,8 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Khalil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-
-
-
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
@@ -19,8 +16,10 @@ const khalil = {
 
 
 <div align="left">
-  <p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a></em></p>
+  
+    
   ## 📫 Let's Connect!
+
     <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
     <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
 
