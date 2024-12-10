@@ -38,40 +38,19 @@ const khalil = {
 - Full-stack MERN application with Redux
 - Modern UI with Tailwind CSS & Material-UI
 - Advanced features: real-time cart, wishlist, authentication
-- 🛒 Real-time shopping cart management
-- 🔐 JWT authentication & authorization
-- 💳 Secure payment integration
-- 📱 Responsive design with Tailwind CSS
-- 🎨 Material-UI components
-- 🌙 GSAP animations
 
 ### Elegant E-Commerce API
 - Redux state management
 - MongoDB with Mongoose ODM
 - RESTful API architecture
-- Real-time updates with Socket.io
-- Advanced product filtering
-- Image optimization
 
 </td>
 <td width="50%">
 
 ### Award-Winning Gaming Website
 ![Tech Stack](https://img.shields.io/badge/React-Frontend-blue)
-![Animation](https://img.shields.io/badge/GSAP-Animations-green)
 - React & Tailwind CSS implementation
 - Advanced animations with GSAP
-- Responsive bento grid design with custom hover effects
-- 🎮 Animated floating nav bar
-- 🎥 Full-screen video transitions
-- 📱 Responsive bento grid design
-- ✨ Custom hover effects
-- 🎨 Minimalistic UI/UX
-- Custom animation system
-- Video optimization
-- Performance-focused build
-- CSS-only card tilt effects
-- Semantic HTML structure
 
 </td>
 </tr>
@@ -80,34 +59,89 @@ const khalil = {
 
 ### iPhone 15 Clone
 ![Tech Stack](https://img.shields.io/badge/React-ThreeFiber-purple)
-![3D](https://img.shields.io/badge/3D-Modeling-orange)
 - Interactive 3D models and animations
-- Built with React Three Fiber & GSAP
-- Smooth scrolling experiences
-- 📱 3D model interactions
-- 🎨 Smooth animations
-- 🖼️ Dynamic color changes
-- 📍 Feature highlighting
-- 🎥 Camera transitions
 
 </td>
 <td width="50%">
 
 ### Health Prediction System
 ![Tech Stack](https://img.shields.io/badge/ML-Integration-red)
-![Award](https://img.shields.io/badge/Hackathon-2nd_Place-silver)
 - Led team of 4 developers
 - Integrated ML models for health analysis
-- Improved diagnostic accuracy by 30%
+
+</td>
+</tr>
+</table>
+
+## 🎯 Detailed Project Showcase
+
+### Elegant E-Commerce Platform
+![Tech Stack](https://img.shields.io/badge/MERN-Stack-blue)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+A modern, responsive e-commerce platform with comprehensive features:
+
+**Key Features:**
+- 🛒 Real-time shopping cart management
+- 🔐 JWT authentication & authorization
+- 💳 Secure payment integration
+- 📱 Responsive design with Tailwind CSS
+- 🎨 Material-UI components
+- 🌙 GSAP animations
+
+**Technical Highlights:**
+- Redux state management
+- MongoDB with Mongoose ODM
+- RESTful API architecture
+- Real-time updates with Socket.io
+- Advanced product filtering
+- Image optimization
+
+### Award-Winning Gaming Website
+![Tech Stack](https://img.shields.io/badge/React-Frontend-blue)
+![Animation](https://img.shields.io/badge/GSAP-Animations-green)
+
+A stunning recreation of an award-winning gaming platform:
+
+**Key Features:**
+- 🎮 Animated floating nav bar
+- 🎥 Full-screen video transitions
+- 📱 Responsive bento grid design
+- ✨ Custom hover effects
+- 🎨 Minimalistic UI/UX
+
+**Technical Highlights:**
+- Custom animation system
+- Video optimization
+- Performance-focused build
+- CSS-only card tilt effects
+- Semantic HTML structure
+
+### iPhone 15 Clone
+![Tech Stack](https://img.shields.io/badge/React-ThreeFiber-purple)
+![3D](https://img.shields.io/badge/3D-Modeling-orange)
+
+An interactive 3D showcase of the iPhone 15:
+
+**Key Features:**
+- 📱 3D model interactions
+- 🎨 Smooth animations
+- 🖼️ Dynamic color changes
+- 📍 Feature highlighting
+- 🎥 Camera transitions
+
+### Health Prediction System
+![Tech Stack](https://img.shields.io/badge/ML-Integration-red)
+![Award](https://img.shields.io/badge/Hackathon-2nd_Place-silver)
+
+An intelligent health prediction system:
+
+**Key Features:**
 - 🤖 ML-powered diagnostics
 - 💬 Interactive chatbot
 - 📊 Health analytics
 - 📱 Responsive design
 - 🔒 Secure data handling
-
-</td>
-</tr>
-</table>
 
 ## 💻 Technical Expertise
 
