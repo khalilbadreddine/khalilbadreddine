@@ -14,13 +14,10 @@ const khalil = {
 };
 ```
 
-
-<div align="left">
-  
-    
   ## 📫 Let's Connect!
-
-    <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
+<div align="left">
+    <div align="center">
+    <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
     <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
 
 </div>
