@@ -33,9 +33,8 @@ const khalil = {
 <tr>
 <td width="50%">
 
-### Elegant E-Commerce Platform
+### Elegant E-Commerce Client
 ![Tech Stack](https://img.shields.io/badge/MERN-Stack-blue)
-![Status](https://img.shields.io/badge/Status-Live-success)
 - Full-stack MERN application with Redux
 - Modern UI with Tailwind CSS & Material-UI
 - Advanced features: real-time cart, wishlist, authentication
@@ -45,6 +44,8 @@ const khalil = {
 - 📱 Responsive design with Tailwind CSS
 - 🎨 Material-UI components
 - 🌙 GSAP animations
+
+### Elegant E-Commerce API
 - Redux state management
 - MongoDB with Mongoose ODM
 - RESTful API architecture
