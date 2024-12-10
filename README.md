@@ -3,15 +3,18 @@
 
 <div align="left">
   <p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a></em></p>
-  
-  <a href="https://linkedin.com/khalilbadredd">
-    <img src="https://img.shields.io/badge/-khalilbadredd-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/khalilbadredd">
-    <img src="https://img.shields.io/github/followers/khalilbadredd?label=Follow&style=social" alt="GitHub"/>
-  </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=khalilbadredd.khalilbadredd" alt="visitors"/>
+  ## 📫 Let's Connect!
+    <div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
+    <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
+    <a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
 </div>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -113,19 +116,6 @@ DevOps                ████░░░░░░░░░░░░░   20%
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git" /><br> <img src="https://skillicons.dev/icons?i=typescript,python,django,mysql,figma,vscode" /> </div>
 
 
-## 📫 Let's Connect!
-<div align="center"> <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
-
-
-[![LinkedIn: khalilbadredd](https://img.shields.io/badge/-khalilbadredd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/khalilbadredd)](https://linkedin.com/khalilbadredd)
-![GitHub followers](https://img.shields.io/github/followers/khalilbadredd?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=khalilbadredd.khalilbadredd)
-
-### 📫 Want to connect?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="mailto:khalilbadre5@gmail.com" target="_blank"><img width="498" alt="contact_link" src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -293,12 +283,7 @@ DevOps                ████░░░░░░░░░░░░░   20%
 ```
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
