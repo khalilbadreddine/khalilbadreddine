@@ -154,97 +154,91 @@ const khalil = {
 };
 ```
 
-### 🚀 Featured Projects
-
-1. **Elegant E-Commerce Platform**
-   - Full-stack MERN application with Redux
-   - Modern UI with Tailwind CSS & Material-UI
-   - Advanced features: real-time cart, wishlist, authentication
-
-2. **Award-Winning Gaming Website**
-   - React & Tailwind CSS implementation
-   - Advanced animations with GSAP
-   - Responsive bento grid design with custom hover effects
-
-3. **iPhone 15 Clone**
-   - Interactive 3D models and animations
-   - Built with React Three Fiber & GSAP
-   - Smooth scrolling experiences
-
-4. **Health Prediction System**
-   - Led team of 4 developers
-   - Integrated ML models for health analysis
-   - Improved diagnostic accuracy by 30%
 
 ### 🎯 Detailed Project Showcase
 
-### 1. Elegant E-Commerce Platform
-![Tech Stack](https://img.shields.io/badge/MERN-Stack-blue)
-![Status](https://img.shields.io/badge/Status-Live-success)
-
-A modern, responsive e-commerce platform with comprehensive features:
-
-**Key Features:**
-- 🛒 Real-time shopping cart management
-- 🔐 JWT authentication & authorization
-- 💳 Secure payment integration
-- 📱 Responsive design with Tailwind CSS
-- 🎨 Material-UI components
-- 🌙 GSAP animations
-
-**Technical Highlights:**
-- Redux state management
-- MongoDB with Mongoose ODM
-- RESTful API architecture
-- Real-time updates with Socket.io
-- Advanced product filtering
-- Image optimization
-
-### 2. Award-Winning Gaming Website
-![Tech Stack](https://img.shields.io/badge/React-Frontend-blue)
-![Animation](https://img.shields.io/badge/GSAP-Animations-green)
-
-A stunning recreation of an award-winning gaming platform:
-
-**Key Features:**
-- 🎮 Animated floating nav bar
-- 🎥 Full-screen video transitions
-- 📱 Responsive bento grid design
-- ✨ Custom hover effects
-- 🎨 Minimalistic UI/UX
-
-**Technical Highlights:**
-- Custom animation system
-- Video optimization
-- Performance-focused build
-- CSS-only card tilt effects
-- Semantic HTML structure
-
-### 3. iPhone 15 Clone
-![Tech Stack](https://img.shields.io/badge/React-ThreeFiber-purple)
-![3D](https://img.shields.io/badge/3D-Modeling-orange)
-
-An interactive 3D showcase of the iPhone 15:
-
-**Key Features:**
-- 📱 3D model interactions
-- 🎨 Smooth animations
-- 🖼️ Dynamic color changes
-- 📍 Feature highlighting
-- 🎥 Camera transitions
-
-### 4. Health Prediction System
-![Tech Stack](https://img.shields.io/badge/ML-Integration-red)
-![Award](https://img.shields.io/badge/Hackathon-2nd_Place-silver)
-
-An intelligent health prediction system:
-
-**Key Features:**
-- 🤖 ML-powered diagnostics
-- 💬 Interactive chatbot
-- 📊 Health analytics
-- 📱 Responsive design
-- 🔒 Secure data handling
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Key Features</th>
+    <th>Technical Highlights</th>
+  </tr>
+  <tr>
+    <td>Elegant E-Commerce Platform</td>
+    <td>A modern, responsive e-commerce platform with comprehensive features</td>
+    <td>
+      <ul>
+        <li>🛒 Real-time shopping cart management</li>
+        <li>🔐 JWT authentication & authorization</li>
+        <li>💳 Secure payment integration</li>
+        <li>📱 Responsive design with Tailwind CSS</li>
+        <li>🎨 Material-UI components</li>
+        <li>🌙 GSAP animations</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Redux state management</li>
+        <li>MongoDB with Mongoose ODM</li>
+        <li>RESTful API architecture</li>
+        <li>Real-time updates with Socket.io</li>
+        <li>Advanced product filtering</li>
+        <li>Image optimization</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Award-Winning Gaming Website</td>
+    <td>A stunning recreation of an award-winning gaming platform</td>
+    <td>
+      <ul>
+        <li>🎮 Animated floating nav bar</li>
+        <li>🎥 Full-screen video transitions</li>
+        <li>📱 Responsive bento grid design</li>
+        <li>✨ Custom hover effects</li>
+        <li>🎨 Minimalistic UI/UX</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Custom animation system</li>
+        <li>Video optimization</li>
+        <li>Performance-focused build</li>
+        <li>CSS-only card tilt effects</li>
+        <li>Semantic HTML structure</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>iPhone 15 Clone</td>
+    <td>An interactive 3D showcase of the iPhone 15</td>
+    <td>
+      <ul>
+        <li>📱 3D model interactions</li>
+        <li>🎨 Smooth animations</li>
+        <li>🖼️ Dynamic color changes</li>
+        <li>📍 Feature highlighting</li>
+        <li>🎥 Camera transitions</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Health Prediction System</td>
+    <td>An intelligent health prediction system</td>
+    <td>
+      <ul>
+        <li>🤖 ML-powered diagnostics</li>
+        <li>💬 Interactive chatbot</li>
+        <li>📊 Health analytics</li>
+        <li>📱 Responsive design</li>
+        <li>🔒 Secure data handling</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ### 📊 Weekly Development Breakdown
 
