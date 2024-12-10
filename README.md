@@ -17,17 +17,19 @@ const khalil = {
   ## 📫 Let's Connect!
 <div align="left">
     <div align="center">
-    <a href="https://linkedin.com/khalilbadredd"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadredd"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> <p><em>Open to exciting opportunities and collaborations!</em></p> </div>
+    <a href="[https://linkedin.com/khalilbadredd](https://www.linkedin.com/in/khalil-badr-eddine-9b8b69182/)"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/khalilbadreddine"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github"/> </a> <a href="mailto:khalilbadre5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <div align="center"> 
     <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
 
 </div>
 <!--START_SECTION:waka-->
-
+<div align="left">
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2020%20mins-blue)
+    ![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
+<div/>
+    <div align="left">![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)<div/>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-699-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
 
 ## 🚀 Featured Projects
 
