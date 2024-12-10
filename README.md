@@ -158,14 +158,7 @@ DevOps                ████░░░░░░░░░░░░░   20%
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <p><em>Open to exciting opportunities and collaborations!</em></p>
 </div>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحباً (Marhaban)🙏🏻, I'm Khalil Badr Eddine! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>MERN Stack Developer at <a href="#">Crystal IT / Amnesty International</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![LinkedIn: khalilbadredd](https://img.shields.io/badge/-khalilbadredd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/khalilbadredd)](https://linkedin.com/khalilbadredd)
-![GitHub followers](https://img.shields.io/github/followers/khalilbadredd?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=khalilbadredd.khalilbadredd)
 
 ### 📫 Want to connect?
 
